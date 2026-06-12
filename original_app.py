@@ -1,3 +1,5 @@
+#this original script removed entire background from object
+
 import os
 from pathlib import Path
 from flask import Flask, request, render_template, send_file, jsonify
